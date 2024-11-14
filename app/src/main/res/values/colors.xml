@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="Pearl">#E7DFC6 </color>
+    <color name="Dutch_White">#DBD5B2</color>
+    \<color name="Majorelle_Blue">#623CEA</color>
+    <color name="white">#fff</color>
+    <color name="Alice_Blue">#e9f1f7</color>
+    <color name="English_Violet">#54426B</color>
 </resources>

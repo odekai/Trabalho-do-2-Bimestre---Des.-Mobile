@@ -1,2 +1,4 @@
-package com.example.trabalho2b;public class Categoria {
+package com.example.trabalho2b;
+
+public class Categoria {
 }

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">trabalho 2B</string>
+    <string-array name="selecione_categoria">selecione uma categoria</string-array>
+    <item name="" type=""
 </resources>
