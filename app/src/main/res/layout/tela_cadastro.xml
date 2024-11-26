@@ -16,21 +16,18 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.0">
 
-    <Spinner
-        android:id="@+id/spinner_categoria"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="300dp"
-        android:prompt="@string/selecione_categoria"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/linearLayout" />
-
+        <Spinner
+            android:id="@+id/spinnerCategorias"
+            android:layout_width="400dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="250dp"
+            android:entries="@array/categoria_array" />
+    </LinearLayout>
 
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/button"
+        android:id="@+id/buttoncadastrar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="150dp"
@@ -43,7 +40,7 @@
 
 
     <EditText
-        android:id="@+id/editTextText"
+        android:id="@+id/edNomeProduto"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="150dp"

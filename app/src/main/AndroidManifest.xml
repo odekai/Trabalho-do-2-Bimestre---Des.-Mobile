@@ -22,6 +22,9 @@
             </intent-filter>
 
         </activity>
+        <activity android:name=".ProdutoCadastradoActivity">
+            <!-- Defina um label se necessário -->
+        </activity>
     </application>
 
 </manifest>
