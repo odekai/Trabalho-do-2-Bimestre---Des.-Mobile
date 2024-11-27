@@ -1,13 +1,5 @@
 <resources>
     <string name="app_name">trabalho 2B</string>
-    <string-array name="categoria_array">
-        <item>Selecione uma categoria</item>
-            <item>Eletrônicos</item>
-            <item>Roupas</item>
-            <item>Alimentos</item>
-            <item>Móveis</item>
-            <item>Beleza</item>
-        </string-array>
 
 
 </resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001409201302",
+    "project_id": "banco-trabalho-mobile",
+    "storage_bucket": "banco-trabalho-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001409201302:android:2b615de76f4314328eeeb7",
+        "android_client_info": {
+          "package_name": "com.example.trabalho2b"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpg21ILjZsOKTCP3auQzbdSN-qPsZbjrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

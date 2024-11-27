@@ -23,7 +23,8 @@
             android:layout_width="400dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="250dp"
-            android:entries="@array/categoria_array" />
+            android:spinnerMode="dropdown"
+             />
     </LinearLayout>
 
     <androidx.appcompat.widget.AppCompatButton
